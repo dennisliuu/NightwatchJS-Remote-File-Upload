@@ -2,6 +2,10 @@
 
 Custom NightwatchJS command for file upload using remote selenium grid
 
+## Test Environment
+
+Nightwatch.js 1.6.4 + BrowserStack
+
 ## Dependencies
 
 This works only for NightwatchJS v1.4+
